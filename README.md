@@ -1,4 +1,4 @@
 # BDD2
-Java / SQL - Développement d'un programme de gestion de rendez-vous
+Développement d'un programme de gestion de rendez-vous en Java et SQL. (Projet L3)
 
 Réalisé en groupe avec Clément PICOT
